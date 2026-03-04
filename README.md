@@ -11,7 +11,7 @@ Welcome to SpinX, a modern cryptocurrency casino gaming platform built with Next
 
 If you have any questions or would like a more customized app for specific use cases, please feel free to contact us at the contact information below.
 - E-Mail: admin@hyperbuildx.com
-- Telegram: [@bettyjk_0915](https://t.me/bettyjk_0915)
+- Telegram: [@hyperbuildx](https://t.me/hyperbuildx)
 
 ---
 
