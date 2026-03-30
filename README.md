@@ -1,6 +1,6 @@
 # Crypto Casino Gaming Platform - Crash, Roulette, Jackpot, Coinflip, Mines ...
 
-Welcome to Crypto Gaming Hub, a modern cryptocurrency casino gaming platform built with Next.js. This platform offers multiple provably fair games including Coinflip, Crash, Mines, and Roulette.  
+Welcome to Crypto Gaming Hub, a modern cryptocurrency casino gaming platform. This platform offers multiple provably fair games including Coinflip, Crash, Mines, and Roulette.  
   
 [Live link](https://www.bet366.casino/)  
 
